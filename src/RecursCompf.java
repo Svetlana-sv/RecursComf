@@ -1,4 +1,4 @@
-//Рекурсивный компилятор формул.
+//Рекурсивный компилятор формул
 public class RecursCompf{
     private static final int DEFSIZE = 255;
     private char[] str;

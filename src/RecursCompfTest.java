@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//Тест для рекурсивного компилятора формул.
+//Тест для рекурсивного компилятора формул
 public class RecursCompfTest{
     public static void main(String[] args) throws Exception{
         RecursCompf c = new RecursCompf();
